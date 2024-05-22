@@ -8,17 +8,16 @@ The fourth element: a light green background, a font size of 24px, and bold */
     font-family: Verdana, "DejaVu Sans", sans-serif;   
 }
 
-.two {
+#two {
     color: #ADD8E6;
     font-size: 36px;
 }
 
-.odd.three {
+.adjust-font-size {
     font-size: 24px; 
 }
 
-.four {
+#four {
     background-color: rgb(144, 238, 144);
-    font-size: 24px;
     font-weight: bold;
 }
