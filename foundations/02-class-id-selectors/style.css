@@ -12,3 +12,8 @@ The fourth element: a light green background, a font size of 24px, and bold */
     color: #ADD8E6;
     font-size: 36px;
 }
+
+.odd.three {
+    font-size: 24px; 
+}
+
