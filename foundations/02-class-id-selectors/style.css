@@ -5,6 +5,10 @@ The fourth element: a light green background, a font size of 24px, and bold */
 
 .odd {
     background-color: rgb(255, 0, 127);
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-    
+    font-family: Verdana, "DejaVu Sans", sans-serif;   
+}
+
+.two {
+    color: #ADD8E6;
+    font-size: 36px;
 }
