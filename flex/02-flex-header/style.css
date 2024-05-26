@@ -13,6 +13,12 @@
   justify-content: space-between;
 }
 
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 .logo {
   font-size: 48px;
   font-weight: 900;
@@ -30,6 +36,7 @@ a {
   font-size: 22px;
   background: white;
   padding: 8px;
+  margin: 4px;
   /* this removes the line under the links */
   text-decoration: none;
 }
