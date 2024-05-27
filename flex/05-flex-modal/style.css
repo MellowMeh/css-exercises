@@ -30,6 +30,14 @@ body {
   flex-direction: column;
 }
 
+.top-line {
+  display: flex;
+}
+
+.bottom-line  {
+  display:flex;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
