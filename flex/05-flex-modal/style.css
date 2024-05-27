@@ -30,14 +30,28 @@ body {
   display: flex;
 }
 
+.left-column  {
+  display: flex;
+  margin: 12px 0px 12px 15px;
+}
+
 .right-column {
   display: flex;
   flex-direction: column;
+  margin: 8px 15px;
 }
 
 .top-right  {
   display: flex;
   justify-content: space-between;
+  margin: 8px 0px;
+}
+
+.bottom-right {
+  display: flex;
+  justify-content: flex-start;
+  margin: 8px 0px;
+  gap: 8px;
 }
 
 .icon {
