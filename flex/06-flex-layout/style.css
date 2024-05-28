@@ -50,10 +50,14 @@ body {
 
 .footer .left-links {
   display: flex;
+  margin: 10px;
+  gap: 10px;
 }
 
 .footer .right-links  {
   display: flex;
+  margin: 10px;
+  gap: 10px;
 }
 
 img {
