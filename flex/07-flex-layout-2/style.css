@@ -68,4 +68,6 @@ ul  {
   background: #eee;
   color: darkmagenta;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
