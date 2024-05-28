@@ -32,6 +32,8 @@ body {
 .cards  {
   display: flex;
   flex-wrap: wrap;
+  margin: 50px;
+  gap: 50px;
 }
 
 .sidebar {
