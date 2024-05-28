@@ -17,7 +17,8 @@ body {
   justify-content: space-between;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   color: grey;
@@ -28,12 +29,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
-
-.footer {
-  display: flex;
-  justify-content: space-between;
-  color: grey;
 }
 
 ul  {
