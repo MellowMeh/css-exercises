@@ -33,6 +33,7 @@ body {
 
 ul  {
   display: flex;
+  font-size:small;
   margin: 16px;
   gap: 16px;
 }
