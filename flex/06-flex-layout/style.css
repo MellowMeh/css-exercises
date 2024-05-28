@@ -23,13 +23,13 @@ body {
   color: grey;
 }
 
-.left-links {
+.header .left-links {
   display: flex;
   margin: 10px;
   gap: 10px;
 }
 
-.right-links  {
+.header .right-links  {
   display: flex;
   margin: 10px;
   gap: 10px;
@@ -45,13 +45,14 @@ body {
 .footer {
   display: flex;
   justify-content: space-between;
+  color: grey;
 }
 
-.left-links {
+.footer .left-links {
   display: flex;
 }
 
-.right-links  {
+.footer .right-links  {
   display: flex;
 }
 
