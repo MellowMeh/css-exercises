@@ -37,7 +37,7 @@ body {
 }
 
 .sidebar {
-  width: 300px;
+  min-width: 250px;
   background: royalblue;
   box-sizing: border-box;
 }
