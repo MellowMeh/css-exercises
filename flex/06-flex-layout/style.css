@@ -23,18 +23,6 @@ body {
   color: grey;
 }
 
-.header .left-links {
-  display: flex;
-  margin: 10px;
-  gap: 10px;
-}
-
-.header .right-links  {
-  display: flex;
-  margin: 10px;
-  gap: 10px;
-}
-
 .content  {
   display: flex;
   flex-direction: column;
@@ -48,16 +36,10 @@ body {
   color: grey;
 }
 
-.footer .left-links {
+ul  {
   display: flex;
-  margin: 10px;
-  gap: 10px;
-}
-
-.footer .right-links  {
-  display: flex;
-  margin: 10px;
-  gap: 10px;
+  margin: 16px;
+  gap: 16px;
 }
 
 img {
