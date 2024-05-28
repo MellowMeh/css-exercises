@@ -61,4 +61,5 @@ ul  {
   flex-direction: column;
   margin: 10px;
   gap: 20px;
+  list-style-type: none;
 }
